@@ -1,0 +1,15 @@
+<nav class="navbar essay-navbar" role="navigation" aria-label="Site navigation">
+    <div class="container">
+        <div class="essay-navbar-3col">
+            <div class="essay-navbar-left">
+                {% include essay/off-canvas-contents.html %}
+            </div>
+            <div class="essay-navbar-center">
+                <a class="navbar-brand essay-navbar__fluid-title" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+            </div>
+            <div class="essay-navbar-right">
+                {% include essay/off-canvas-menu.html %}
+            </div>
+        </div>
+    </div>
+</nav>
