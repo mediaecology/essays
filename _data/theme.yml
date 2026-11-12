@@ -19,8 +19,8 @@
 # - Collection objectid: demo_001
 #
 image-style: full-image                # full-image, half-image, or no-image
-featured-image: /assets/img/writing-instruments.jpg
-featured-image-credit: "General Research Division, The New York Public Library. 'An illustration of writing brushes' The New York Public Library Digital Collections. 1908. [https://digitalcollections.nypl.org/items/07caacb0-c6cc-012f-af8d-58d385a7bc34](https://digitalcollections.nypl.org/items/07caacb0-c6cc-012f-af8d-58d385a7bc34)"
+featured-image: https://images.pdimagearchive.org/collections/tanzmasken/tanzmaske-4.jpg?width=895&height=800
+featured-image-credit: "General Research Division, SOURCE  [https://pdimagearchive.org/images/eb318a3c-8d11-4046-bfe8-002891439ddf/](https://pdimagearchive.org/images/eb318a3c-8d11-4046-bfe8-002891439ddf/)"
 featured-image-alt-text: "An illustration of writing brushes with Japanese labels" # Add alt text for accessibility
 
 
