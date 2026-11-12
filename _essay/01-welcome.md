@@ -1,20 +1,17 @@
 ---
-title: Welcome to CB-Essay
+title: COM418 Media Ecology seminar
 order: 1
-part: Overview and Examples
+part: About
 ---
 
-CB-Essay is a free, open source publishing framework that lets you ***write with, on, and for*** the web while keeping complete control over how your work appears online and in print.
+This website is an experiment of our fall semester graduate seminar, with the official course catalog title as mediated communication. Intended as a seminar to broadly capture varying epistemological and methodological approaches to questions about communicative practices via mediated forms (namely, digital), the way I chose to go with the seminar is informed by cultural studies and media ecology. To examine mediated communication requires attention to defining, or rather, wading into the long existing discussions about, **media**, **medium**, and **mediated**. Our explorations are rooted in the classic cultural studies project of the keyword. 
 
-The idea for the tool, and many of its design elements, came out of our working with graduate students on digital theses the past couple of years. We've encouraged users of CollectionBuilder to write *with* their collections since we first started promoting the framework in 2019, but these [(CDIL) Grad Fellows](https://cdil.lib.uidaho.edu/) needed us to flip our setup around — featuring their essays on top, with CollectionBuilder living underneath.{% include essay/feature/aside.html text="See [Sedimentation](https://cdil.lib.uidaho.edu/sedimentation/), [Tender Spaces](https://cdil.lib.uidaho.edu/tender-spaces/), and [Fire Lines](https://cdil.lib.uidaho.edu/fire-lines/)." %} 
 
-We liked the results and decided to try to make them more available through this new template. The mini-essays below will walk you through the system and get you started.{% include essay/feature/cta.html style="aside" text="Use This Template →" link="https://github.com/new?template_name=cb-essay&template_owner=CollectionBuilder" description="Click below to start now: " size="sm" width="75" %}
+## How the Site Operates
 
-## So What Does It Do?
+***Built on*** [CollectionBuilder](https://collectionbuilder.github.io/), it enables you to create multimodal scholarly narratives, written in Markdown, that integrate primary sources, archival materials, and multimedia items directly into your texts.
 
-***CB-Essay*** is a Jekyll-based framework that combines **long-form essay writing** with **digital collection features**. ***Built on*** [CollectionBuilder](https://collectionbuilder.github.io/), it enables you to create multimodal scholarly narratives, written in Markdown, that integrate primary sources, archival materials, and multimedia items directly into your texts.
-
-Traditional digital publishing tools treat essays and collections as separate entities. CB-Essay connects them, allowing you to:
+We adapted the Collection Builder essay template so that we may
 
 - **Reference collection items** using simple includes
 - Create **asides and margin notes** that link to primary sources {% include /essay/feature/aside.html text="Like this!" %}
